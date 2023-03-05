@@ -8,4 +8,4 @@ Steps:
 1. Enter a Music File 
 2. Analyze the Frequencys of the File
 3. Use the Analyzed Parameters to Create a 3Dimensional Fractal
-4. Have Fun!
+4. Make a Game out of it and Have Fun!
