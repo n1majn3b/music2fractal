@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Audio Visualizer based on Three.js</title>
+  <link href="https://fonts.googleapis.com/css?family=Saira" rel="stylesheet"><link rel="stylesheet" href="./style.css">
+
+</head>
+<body style="background: transparent; margin: 0; padding: 0;">
+<!-- partial:index.partial.html -->
+<div id="content" style="background: transparent; margin: 0; padding: 0;">
+    
+    <label for="thefile" class="file"> Choose an audio file
+      <input type="file" id="thefile" accept="audio/*" />
+    </label>
+
+    <audio id="audio" controls autoplay loop></audio>
+    <div id="out"></div>
+  </div>
+  
+<!-- partial -->
+<script src="./three.min.js"></script>
+<script src="./OrbitControls.js"></script>
+<script src="./dat.gui.min.js"></script>
+<script src="./simplex-noise.js"></script>
+<script src="./script.js"></script>
+
+</body>
+</html>
