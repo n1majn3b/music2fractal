@@ -5,7 +5,7 @@ The aim of this Project is to create a 3Dimensional Immersive Audio Visualizer E
 
 Steps: 
 
-1. Enter a Music File 
+1. Enter a Music File or Listen to a LiveSound
 2. Analyze the Frequencys of the File
 3. Use the Analyzed Parameters to Create a 3Dimensional Fractal
 4. Make a Game out of it and Have Fun!
