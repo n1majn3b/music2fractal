@@ -2,6 +2,7 @@
 Music to 3D-Mandelbrot Fractal Viusalizer
 
 The aim of this Project is to create a 3Dimensional Immersive Audio Visualizer Experience.
+-> using optionally three.js / opengl for webapplications
 
 Steps: 
 
